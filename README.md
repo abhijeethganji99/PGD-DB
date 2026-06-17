@@ -1,5 +1,9 @@
 # PGD-DB: Pediatric Growth & Development Database
 
+[![Live Report](https://img.shields.io/badge/Live%20Report-View%20HTML%20Preview-blue?style=for-the-badge&logo=r)](https://abhijeethganji99.github.io/PGD-DB/)
+
+> **[Click here to view the full interactive HTML report](https://abhijeethganji99.github.io/PGD-DB/)**
+
 **Author:** Abhijeeth Ganji  
 **Language:** R  
 **Data source:** CMS (Centers for Medicare & Medicaid Services) Open Data — Chronic Conditions Data Warehouse (CCW) Pediatric Public Use File  
