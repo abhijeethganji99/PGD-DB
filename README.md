@@ -3,10 +3,8 @@
 **[Click here to view the full interactive HTML report](https://abhijeethganji99.github.io/PGD-DB/)**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RMarkdown](https://img.shields.io/badge/RMarkdown-75AADB?style=for-the-badge)
 ![ggplot2](https://img.shields.io/badge/ggplot2-FF6F61?style=for-the-badge&logo=r&logoColor=white)
 ![CMS Open Data](https://img.shields.io/badge/CMS%20Open%20Data-0055A4?style=for-the-badge&logo=databricks&logoColor=white)
-![HIPAA Compliant](https://img.shields.io/badge/HIPAA%20Compliant-00897B?style=for-the-badge)
 
 **Author:** Abhijeeth Ganji  
 **Language:** R  
